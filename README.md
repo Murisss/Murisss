@@ -22,7 +22,7 @@ Keep the two images the same dimensions for a clean switch.
 
 Hi, I'm Muhammad Rizqan 🌙
 
-UI/UX Designer · Game Designer · Digital Design
+UI/UX Designer · Game Designer · Digital Marketing
 
 <p><i>Designing, building, and learning through technology.</i></p>
 
