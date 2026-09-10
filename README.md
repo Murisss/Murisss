@@ -116,7 +116,7 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./cuteeye.jpg" alt="divider">
+  <img src="./byeee.jpg" alt="divider">
 </div>
 
 ## Connect With Me
