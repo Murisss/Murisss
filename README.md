@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/jendelamalam.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banners/jendelapagi.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="./jendelamalam.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="./jendelapagi.jpg">
   <img src="./assets/banners/pixel-night-hero.png" alt="Pixel Night Banner" width="100%">
 </picture>
 
@@ -17,8 +17,7 @@
 </p>
 
 <p>
-  I like creating things that feel thoughtful, useful, and visually engaging —
-  where engineering meets creativity.
+  I like creating things that feel thoughtful, useful, and visually engaging where engineering meets creativity.
 </p>
 
 </div>
