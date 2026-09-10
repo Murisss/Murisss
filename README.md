@@ -13,7 +13,7 @@ Keep the two images the same dimensions for a clean switch.
 <!-- ========================= HERO ========================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murisss/Murisss/download (1).jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="./download (1).jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murisss/Murisss/main/assets/hero-light.png">
   <img src="https://raw.githubusercontent.com/Murisss/Murisss/main/assets/hero-light.png" alt="Muhammad Rizqan profile banner">
 </picture>
