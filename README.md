@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="./cuteeye.jpg" alt="divider">
+  <img src="./gothh.png" alt="divider" width="100%">
 </div>
 
 ## About Me
@@ -43,7 +43,7 @@ I’m always curious to learn, experiment, and improve through real-world projec
 ---
 
 <div align="center">
-   <img src="./cuteeye.jpg" alt="divider">
+  <img src="./gothh.png" alt="divider" width="100%">
 </div>
 
 ## Current Focus
@@ -59,7 +59,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-   <img src="./cuteeye.jpg" alt="divider">
+  <img src="./gothh.png" alt="divider" width="100%">
 </div>
 
 ## Toolbox
@@ -96,7 +96,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./cuteeye.jpg" alt="divider">
+  <img src="./gothh.png" alt="divider" width="100%">
 </div>
 
 ## Night Notes
@@ -116,7 +116,7 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./aesthetic.jpg" alt="divider">
+  <img src="./gothh.png" alt="divider" width="100%">
 </div>
 
 ## Connect With Me
@@ -135,7 +135,7 @@ A few words that describe me:
 
 <div align="center">
   <br/>
-  <img src="./light.jpg" width="100%">
+  <img src="./aesthetic.jpg" width="100%">
   <br/><br/>
   <sub>Thanks for visiting my corner of GitHub ✨</sub>
 </div>
