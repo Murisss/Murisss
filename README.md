@@ -30,16 +30,15 @@
 
 ## About Me
 
-I’m someone who enjoys turning ideas into systems, experiments, and digital experiences.  
-My interests are centered around building technology that is not only functional, but also meaningful and well-crafted.
+I’m an Information Technology graduate with a passion for UI/UX design, digital marketing, and game design. I enjoy turning ideas into digital experiences by combining creativity, technology, and problem-solving.
 
-I enjoy learning deeply, refining details, and finding creative ways to solve technical problems.
+I’m always curious to learn, experiment, and improve through real-world projects. Whether it’s designing an interface, creating digital content, or building a virtual environment, I enjoy the process of turning ideas into something meaningful and engaging.
 
-- 🎓 Informatics student
-- 🤖 Interested in AI and machine learning
-- 👁️ Exploring computer vision and intelligent systems
-- 🔧 Enjoy automation, systems, and software development
-- 🌌 Drawn to calm, creative, and atmospheric design aesthetics
+- 🎓 Information Technology graduate from Brawijaya University
+- 🎨 Interested in UI/UX Design, Digital Marketing & Game Design
+- 🧩 Enjoy turning ideas into meaningful digital experiences
+- 🎮 Exploring game design, Roblox building & virtual environments
+- ✨ Passionate about creativity, visual design & problem-solving
 
 ---
 
@@ -51,11 +50,11 @@ I enjoy learning deeply, refining details, and finding creative ways to solve te
 
 Right now, I’m focusing on:
 
-- Artificial Intelligence and Machine Learning
-- Computer Vision and intelligent applications
-- Automation workflows and system efficiency
-- Software development and practical problem solving
-- Continuous learning through building and experimentation
+- 🎨 UI/UX Design and user-centered digital experiences
+- 📱 Digital Marketing, content creation & digital campaigns
+- 🎮 Game Design and Roblox environment development
+- 🧩 Exploring the intersection of design, technology & creativity
+- 🚀 Continuous learning through real-world projects and experimentation
 
 ---
 
@@ -65,29 +64,33 @@ Right now, I’m focusing on:
 
 ## Toolbox
 
-### Languages
+### Design
 <p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva" />
 </p>
 
-### Technologies
+### Digital & Game
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Content%20Creation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Game%20Design-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roblox%20Studio-111827?style=for-the-badge&logo=roblox" />
 </p>
 
-### Creative Side
+### Workflow
 <p>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User%20Research-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Systems-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visual%20Design-1e293b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem%20Solving-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%20Thinking-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-1e293b?style=for-the-badge" />
+</p>
+
+### Productivity
+<p>
+  <img src="https://img.shields.io/badge/Trello-0f172a?style=for-the-badge&logo=trello" />
+  <img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
 ---
@@ -98,17 +101,17 @@ Right now, I’m focusing on:
 
 ## Night Notes
 
-> I enjoy building things that combine precision and imagination.  
-> For me, technology is not only about making something work —  
-> it is also about making it feel clear, useful, and meaningful.
+> I enjoy exploring the space between creativity and technology.
+> I like turning simple ideas into digital experiences, visual stories,
+> and interactive worlds that feel meaningful and engaging.
 
 A few words that describe me:
 
 - curious
-- adaptable
-- detail-oriented
 - creative
-- always learning
+- adaptable
+- thoughtful
+- always exploring
 
 ---
 
@@ -119,20 +122,20 @@ A few words that describe me:
 ## Connect With Me
 
 <p align="center">
-  <a href="nestovaa@gmail.com">
+  <a href="mochammed.rizqan@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/aracel-nestova/">
+  <a href="https://www.linkedin.com/in/muhammadrizqann/">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/aracel.l/">
+  <a href="https://www.instagram.com/rizqan._/">
     <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
 <div align="center">
   <br/>
-  <img src="./assets/footers/footer.png" alt="Pixel Night Footer" width="100%">
+  <img src="./light.jpg" width="100%">
   <br/><br/>
   <sub>Thanks for visiting my corner of GitHub ✨</sub>
 </div>
