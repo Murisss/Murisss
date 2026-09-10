@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider">
+  <img src="./cuteeye.jpg" alt="divider">
 </div>
 
 ## About Me
@@ -44,7 +44,7 @@ I enjoy learning deeply, refining details, and finding creative ways to solve te
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-1.png" alt="divider" class="cropped-divider">
+   <img src="./cuteeye.jpg" alt="divider">
 </div>
 
 ## Current Focus
@@ -60,7 +60,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-2.png" alt="divider">
+   <img src="./cuteeye.jpg" alt="divider">
 </div>
 
 ## Toolbox
@@ -93,7 +93,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-3.png" alt="divider">
+  <img src="./cuteeye.jpg" alt="divider">
 </div>
 
 ## Night Notes
@@ -113,33 +113,7 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-4.png" alt="divider">
-</div>
-
-## GitHub Snapshot
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aracel1234&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Aracel's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aracel1234&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Aracel's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aracel1234&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-<div align="center">
-  <img src="./assets/dividers/star-divider-5.png" alt="divider">
+  <img src="./cuteeye.jpg" alt="divider">
 </div>
 
 ## Connect With Me
