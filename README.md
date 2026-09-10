@@ -8,12 +8,12 @@
 
 <br/>
 
-# Hi, I'm Muhammad Rizqan ♣️
+# Hi, I'm Muhammad Rizqan 🌒
 
 ### Designing, building, and learning through technology.
 
 <p>
- I'm an Information Technology graduate from Brawijaya University with a passion for UI/UX Design, Digital Marketing, Game Design, and digital experiences. I enjoy combining creativity, visual communication, analytical thinking, and problem-solving to create experiences that are functional, engaging, and meaningful — from designing digital interfaces and content to building environments in Roblox. I'm continuously learning, experimenting, and looking for opportunities to turn ideas into thoughtful digital experiences.
+ I'm an Information Technology graduate from Brawijaya University with a passion for UI/UX Design, Digital Marketing, Game Design, and digital experiences. I enjoy combining creativity, visual communication, analytical thinking, and problem-solving to create experiences that are functional, engaging, and meaningful from designing digital interfaces and content to building environments in Roblox. I'm continuously learning, experimenting, and looking for opportunities to turn ideas into thoughtful digital experiences.
 </p>
 
 <p>
