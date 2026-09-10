@@ -1,195 +1,165 @@
-<!--
-MUHAMMAD RIZQAN — GITHUB PROFILE README
-
-Theme-aware image system:
-  Light → assets/hero-light.png
-  Dark  → assets/hero-dark.png
-
-Keep the two images the same dimensions for a clean switch.
--->
-
 <div align="center">
-
-<!-- ========================= HERO ========================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-banner.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Murisss/Murisss/main/assets/hero-light.png">
-  <img src="https://raw.githubusercontent.com/Murisss/Murisss/main/assets/hero-light.png" alt="Muhammad Rizqan profile banner">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/pixel-night-hero-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banners/pixel-night-hero-light.png">
+  <img src="./assets/banners/pixel-night-hero.png" alt="Pixel Night Banner" width="100%">
 </picture>
 
-<br>
+<br/>
 
-Hi, I'm Muhammad Rizqan 🌙
+# Hi, I'm Aracel Nestova Aprilyanto 🌙
 
-UI/UX Designer · Game Designer · Digital Marketing
+### Designing, building, and learning through technology.
 
-<p><i>Designing, building, and learning through technology.</i></p>
+<p>
+ I'm an Information Technology graduate from Brawijaya University with a passion for UI/UX Design, Digital Marketing, Game Design, and digital experiences. I enjoy combining creativity, visual communication, analytical thinking, and problem-solving to create experiences that are functional, engaging, and meaningful — from designing digital interfaces and content to building environments in Roblox. I'm continuously learning, experimenting, and looking for opportunities to turn ideas into thoughtful digital experiences.
+</p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/muhammadrizqann"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rizqan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
-<a href="mailto:mochammed.rizqan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
- 
-<a href="https://github.com/Murisss"><img src="https://img.shields.io/badge/GitHub-Murisss-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-
-</div>
-
-About Me
-
-I'm an Information Technology graduate from Brawijaya University with a passion for UI/UX Design, Digital Marketing, Game Design, and digital experiences.
-
-I enjoy combining creativity, visual communication, analytical thinking, and problem-solving to create experiences that are functional, engaging, and meaningful — from designing digital interfaces and content to building environments in Roblox.
-
-I'm continuously learning, experimenting, and looking for opportunities to turn ideas into thoughtful digital experiences.
-
-What I Do
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-🎨 UI/UX Design
-
-Creating user-focused interfaces through:
-
-User Research
-
-Wireframing
-
-Prototyping
-
-Responsive Design
-
-Design Systems
-
-📣 Digital Marketing
-
-Exploring digital communication through:
-
-Social Media Content
-
-Digital Campaigns
-
-Instagram Content
-
-Promotional Design
-
-E-commerce Visuals
-
-🎮 Game Design
-
-Building experiences through:
-
-Roblox Studio
-
-Environment Design
-
-Map Building
-
-Level Design
-
-Visual Composition
-
-</table>
-
-Tools & Technologies
-
-<div align="center">
-
-<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma"></a>
- 
-<a href="https://www.canva.com/"><img src="https://skillicons.dev/icons?i=canva" height="45" alt="Canva"></a>
- 
-<a href="https://create.roblox.com/"><img src="https://skillicons.dev/icons?i=robloxstudio" height="45" alt="Roblox Studio"></a>
- 
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="Visual Studio Code"></a>
+<p>
+  I like creating things that feel thoughtful, useful, and visually engaging —
+  where engineering meets creativity.
+</p>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-
-Figma · Canva · Roblox Studio · Visual Studio Code · Trello
-
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
-Selected Work
+## About Me
 
-🎨 UI/UX Design
+I’m someone who enjoys turning ideas into systems, experiments, and digital experiences.  
+My interests are centered around building technology that is not only functional, but also meaningful and well-crafted.
 
-Designing digital experiences that balance user needs, functionality, and visual design.
+I enjoy learning deeply, refining details, and finding creative ways to solve technical problems.
 
-AjakAja
-Wedding Invitation Platform — responsive invitation themes, landing page concepts, and product visuals.
+- 🎓 Informatics student
+- 🤖 Interested in AI and machine learning
+- 👁️ Exploring computer vision and intelligent systems
+- 🔧 Enjoy automation, systems, and software development
+- 🌌 Drawn to calm, creative, and atmospheric design aesthetics
 
-IA / ITB Asuransi
-Internal Website Redesign — usability-focused redesign and basic design system documentation.
-
-Momentra
-Photography & Wedding Experience — wireframes, website design, landing page concepts, and visual storytelling.
-
-Academic Projects
-MamCook · FitMeals · Brambang
-
-📣 Digital Marketing
-
-Turning ideas into visual communication that supports engagement, brand awareness, and digital campaigns.
-
-Instagram carousel & Reels
-
-Promotional visuals
-
-Shopee product listings
-
-Wedding invitation campaigns
-
-Photography service content
-
-🎮 Game Design
-
-Exploring world-building and environment design through Roblox Studio.
-
-Roblox environment & map building
-
-Visual composition
-
-Environmental details
-
-Gameplay-oriented layouts
-
-Optimization
-
-Player experience
-
-20K+ visits across released Roblox games.
-
-Currently Exploring
-
-UI/UX Design        ███████████████████░   Growing
-Digital Marketing   ████████████████░░░░   Growing
-Game Design         ███████████████░░░░░   Growing
-Roblox Development  ██████████████░░░░░░   Exploring
-
-Always learning. Always building. Always curious.
-
-Let's Connect
+---
 
 <div align="center">
+  <img src="./assets/dividers/star-divider-1.png" alt="divider" class="cropped-divider">
+</div>
 
-If you're interested in design, digital products, game development,
-or creative collaboration, feel free to reach out.
+## Current Focus
 
-<br>
+Right now, I’m focusing on:
 
-<a href="https://www.linkedin.com/in/muhammadrizqann"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"></a>
- 
-<a href="mailto:mochammed.rizqan@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"></a>
+- Artificial Intelligence and Machine Learning
+- Computer Vision and intelligent applications
+- Automation workflows and system efficiency
+- Software development and practical problem solving
+- Continuous learning through building and experimentation
 
-<br><br>
+---
 
-<sub>Designed with curiosity · Built with Markdown · Made by Mouris</sub>
+<div align="center">
+  <img src="./assets/dividers/star-divider-2.png" alt="divider">
+</div>
 
+## Toolbox
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql" />
+</p>
+
+### Technologies
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
+</p>
+
+### Creative Side
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Thinking-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-1e293b?style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+  <img src="./assets/dividers/star-divider-3.png" alt="divider">
+</div>
+
+## Night Notes
+
+> I enjoy building things that combine precision and imagination.  
+> For me, technology is not only about making something work —  
+> it is also about making it feel clear, useful, and meaningful.
+
+A few words that describe me:
+
+- curious
+- adaptable
+- detail-oriented
+- creative
+- always learning
+
+---
+
+<div align="center">
+  <img src="./assets/dividers/star-divider-4.png" alt="divider">
+</div>
+
+## GitHub Snapshot
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aracel1234&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Aracel's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aracel1234&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Aracel's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aracel1234&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+<div align="center">
+  <img src="./assets/dividers/star-divider-5.png" alt="divider">
+</div>
+
+## Connect With Me
+
+<p align="center">
+  <a href="nestovaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aracel-nestova/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/aracel.l/">
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+<div align="center">
+  <br/>
+  <img src="./assets/footers/footer.png" alt="Pixel Night Footer" width="100%">
+  <br/><br/>
+  <sub>Thanks for visiting my corner of GitHub ✨</sub>
 </div>
